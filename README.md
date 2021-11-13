@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DShipleyWTD
+- 👀 I’m interested in full-stack coding
+- 🌱 I’m currently learning HTML, CSS and Javascript 
+- 💞️ I’m looking to collaborate on class projects
+- 📫 How to reach me: douglanshipley@gmail.com
